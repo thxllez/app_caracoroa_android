@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cor_de_fundo">#50ab76</color>
+    <color name="fundo_app">#65bc8d</color>
+    <color name="status_bar_custom">#57a078</color>
+</resources>
